@@ -43,6 +43,6 @@ insert into wishlists (created_at, user_id, product_id) values (current_timestam
 -- 21.
   delete from users where name =  "Jon Anderson";
 -- 22.
-delete from wishlists where id = 78;
+delete from wishlists where id = 78; 
 
 
